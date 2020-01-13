@@ -1,2 +1,2 @@
 # testjavascript
-This is an absolute gamer moments
+This is an absolute gamer moment
